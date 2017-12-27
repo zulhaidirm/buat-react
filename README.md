@@ -1,4 +1,6 @@
-"# buat-react" 
+# buat-react
+Belajar membuat aplikasi menggunakan react
+
 # cara menggunakan file
 1. Ubah branch master menjadi lesson-1
 2. klik clone or download lalu copy
